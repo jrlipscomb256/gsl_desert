@@ -1,0 +1,6 @@
+only-binary :all:
+jupyter_packaging
+keplergl --no-build-isolation
+numpy
+pandas
+geopandas
